@@ -1,0 +1,5 @@
+# ignore executable
+main
+
+# ignore redis dump
+dump.rdb
